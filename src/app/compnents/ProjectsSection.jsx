@@ -20,7 +20,7 @@ const projectsData = [
         description: "Avventura testuale",
         image: "/images/projects/projects2.png",
         tag: ["All", "Web"],
-        gitUrl: "https://github.com/M4RV1L/L-Accademia-Degli-Arcani-Preduti",
+        gitUrl: "https://github.com/M4RV1L/Personal-Site",
         previewUrl: "/",
     }
 ];
