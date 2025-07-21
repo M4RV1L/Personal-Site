@@ -22,7 +22,17 @@ const projectsData = [
         tag: ["All", "Web"],
         gitUrl: "https://github.com/M4RV1L/Personal-Site",
         previewUrl: "/",
-    }
+    },
+    {
+        id: 3,
+        title: "Accademia degli Arcani Perduti Web",
+        description: "Avventura testuale",
+        image: "/images/projects/projects2.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/M4RV1L/L-Accademia-Degli-Arcani-Perduti-Web",
+        previewUrl: "/",
+
+    },
 ];
 
 const ProjectsSection = () => {
