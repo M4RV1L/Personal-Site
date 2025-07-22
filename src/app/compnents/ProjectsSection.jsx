@@ -8,7 +8,7 @@ const projectsData = [
         id: 1,
         title: "Accademia degli Arcani Perduti",
         description: "Avventura testuale",
-        image: "/images/projects/projects1.jpeg",
+        image: "/images/projects/projects1.png",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/M4RV1L/L-Accademia-Degli-Arcani-Preduti",
         previewUrl: "/",
