@@ -8,6 +8,7 @@ import MenuOverlay from './MenuOverlay';
 import GithubIcon from "../../../public/github-mark-white.svg";
 import LinkedinIcon from "../../../public/linkedin-svgrepo-com.svg";
 import InstagramIcon from "../../../public/instagram-svgrepo-com.svg";
+import TryHackMeIcon from "../../../public/THM-icon.svg";
 
 const navLinks = [
     {
@@ -21,6 +22,10 @@ const navLinks = [
     {
         title: <Image src={InstagramIcon} alt='Instagram Icon' width={30} height={30} />,
         path: "https://www.instagram.com/_marcovillano_",
+    },
+    {
+        title: <Image src={TryHackMeIcon} alt='TryHackMe Icon' width={30} height={30} />,
+        path: "https://tryhackme.com/p/M4RV1L",
     }
 ]
 
