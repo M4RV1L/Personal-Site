@@ -33,6 +33,16 @@ const projectsData = [
         previewUrl: "/",
 
     },
+    {
+        id: 4,
+        title: "CTF WriteUps",
+        description: "Ctf WriteUps",
+        image: "/images/projects/projects4.png",
+        tag: ["All", "Web"],
+        gitUrl: "https://github.com/M4RV1L/CTF-WRITEUPS",
+        previewUrl: "/",
+
+    },
 ];
 
 const ProjectsSection = () => {
